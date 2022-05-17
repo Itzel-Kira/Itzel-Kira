@@ -4,7 +4,7 @@
 - 🤝🏼 I believe that technology will help us to create a fairer and more pleasant world for everyone. I want to be part of that process and teach and share a lot with others.
 - 🧑‍🎓 Student at LaboratoriaLA bootcamp.
 - 🧪 Biologist / Zoologist / Paleontologist.
-- 🖥️ Currently developing projects with HTML, JS AND CSS.
+- 🖥️ Currently developing projects with HTML, JS and CSS.
 - 🤓 Wishlist: TypeScript, Next.js, Node.js, React
 
 - 🌺 Aside from technology, I am really passionate about nature, history and arts.
